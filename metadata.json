@@ -1,0 +1,6 @@
+{
+  "name": "Sudoku Daily",
+  "description": "A clean, modern Sudoku puzzle game where users can play a new Sudoku puzzle every day.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
